@@ -1,1 +1,47 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T10:59:16.122Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.7.9" etag="shmflUhUanLrgWFgmOTn" type="github"><diagram id="sxMqOWl88q8sagWuzdaW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-08T11:04:57.833Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="5JrC-YRvwl4q8HVylE8P" version="13.7.9" type="github">
+  <diagram id="sxMqOWl88q8sagWuzdaW" name="Page-1">
+    <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="52pNzPxK0SL-IySilFk--13" value="" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="690" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="52pNzPxK0SL-IySilFk--14" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;labelPosition=right;align=left;outlineConnect=0;" vertex="1" parent="52pNzPxK0SL-IySilFk--13">
+          <mxGeometry x="1" width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="-15" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52pNzPxK0SL-IySilFk--4" value="Approve Expense" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="52pNzPxK0SL-IySilFk--5" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;labelPosition=right;align=left;outlineConnect=0;" vertex="1" parent="52pNzPxK0SL-IySilFk--4">
+          <mxGeometry x="1" width="30" height="30" relative="1" as="geometry">
+            <mxPoint x="-15" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52pNzPxK0SL-IySilFk--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="52pNzPxK0SL-IySilFk--6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52pNzPxK0SL-IySilFk--6" value="Submit Expense" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="52pNzPxK0SL-IySilFk--7" value="" style="html=1;shape=mxgraph.bpmn.user_task;outlineConnect=0;" vertex="1" parent="52pNzPxK0SL-IySilFk--6">
+          <mxGeometry width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="7" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52pNzPxK0SL-IySilFk--8" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="52pNzPxK0SL-IySilFk--6">
+          <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="-7" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52pNzPxK0SL-IySilFk--15" value="Expense Approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
