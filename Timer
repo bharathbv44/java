@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T06:58:59.092Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="RjSnnBRc3DOLH6KCH31y" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T07:09:13.670Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="saMAP1-AJsD0uGyIiHg4" version="13.9.2" type="github">
   <diagram id="ajHc7n05dzutWjZ7O7bZ" name="Page-1">
     <mxGraphModel dx="2182" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,13 +30,13 @@
         <mxCell id="_9C_A3BvvruD2jxaKyvn-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Day&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="_9C_A3BvvruD2jxaKyvn-3">
           <mxGeometry x="50" y="100" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_9C_A3BvvruD2jxaKyvn-18" value="10" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="_9C_A3BvvruD2jxaKyvn-3">
+        <mxCell id="_9C_A3BvvruD2jxaKyvn-18" value="00" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="_9C_A3BvvruD2jxaKyvn-3">
           <mxGeometry x="390" y="104.5" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_9C_A3BvvruD2jxaKyvn-19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Minute&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="_9C_A3BvvruD2jxaKyvn-3">
           <mxGeometry x="327" y="103" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_9C_A3BvvruD2jxaKyvn-16" value="10" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="_9C_A3BvvruD2jxaKyvn-3">
+        <mxCell id="_9C_A3BvvruD2jxaKyvn-16" value="5" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="_9C_A3BvvruD2jxaKyvn-3">
           <mxGeometry x="238" y="105" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_9C_A3BvvruD2jxaKyvn-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Hour&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="_9C_A3BvvruD2jxaKyvn-3">
@@ -65,6 +65,12 @@
         </mxCell>
         <mxCell id="_9C_A3BvvruD2jxaKyvn-29" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;External Link&lt;/b&gt;&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="_9C_A3BvvruD2jxaKyvn-3">
           <mxGeometry x="315" y="180" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_9C_A3BvvruD2jxaKyvn-30" value="Number of times the escalation or renew should happen&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="_9C_A3BvvruD2jxaKyvn-3">
+          <mxGeometry x="180" y="405" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_9C_A3BvvruD2jxaKyvn-31" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Number Of Times&lt;/b&gt;&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="_9C_A3BvvruD2jxaKyvn-3">
+          <mxGeometry x="50" y="400" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
