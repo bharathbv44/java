@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T08:51:16.550Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="ksOPxzE0QjYdGriPG-4_" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T08:53:00.254Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="YPTgCJySXDijXX5_oqEu" version="13.9.6" type="github">
   <diagram id="1prF0KryWM6WVvwfOyI5" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="lBB323AbNjin8JmzcpQU-3" value="Solution 1&lt;br&gt;PUBLISHED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lBB323AbNjin8JmzcpQU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lBB323AbNjin8JmzcpQU-4" target="lBB323AbNjin8JmzcpQU-5">
+        <mxCell id="lBB323AbNjin8JmzcpQU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;" edge="1" parent="1" source="lBB323AbNjin8JmzcpQU-4" target="lBB323AbNjin8JmzcpQU-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lBB323AbNjin8JmzcpQU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lBB323AbNjin8JmzcpQU-4" target="lBB323AbNjin8JmzcpQU-7">
@@ -34,6 +34,15 @@
         </mxCell>
         <mxCell id="lBB323AbNjin8JmzcpQU-7" value="Solution 2&lt;br&gt;&lt;b&gt;PUBLISHED&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lBB323AbNjin8JmzcpQU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;" edge="1" parent="1" source="lBB323AbNjin8JmzcpQU-9" target="lBB323AbNjin8JmzcpQU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lBB323AbNjin8JmzcpQU-9" value="Entity 3.0&lt;br&gt;&lt;b&gt;PUBLISHED&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lBB323AbNjin8JmzcpQU-10" value="Entity 2.0&amp;nbsp;&lt;br&gt;&lt;b&gt;ARCHIVED&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
