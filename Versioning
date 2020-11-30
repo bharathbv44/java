@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T07:41:47.927Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="AkRxS4jUmBI2SlbC4q0u" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T07:43:18.670Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="3_MQl5EC6nsr2HEvU8xN" version="13.10.4" type="github">
   <diagram id="zJIdphBERN80DyX4u2p5" name="Page-1">
     <mxGraphModel dx="1594" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -521,8 +521,8 @@
         <mxCell id="jEtmBRqMYVjhrbRLwXWL-198" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Published GSI&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="2070" width="121" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jEtmBRqMYVjhrbRLwXWL-200" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Edit GSI add new CU/ Entity&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2410" width="122" height="60" as="geometry" />
+        <mxCell id="jEtmBRqMYVjhrbRLwXWL-200" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Edit GSI add new CU/ Entity Backward compatible&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2400" width="202" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
