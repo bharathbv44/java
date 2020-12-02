@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T17:22:33.417Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-iAdo7wD8_ZuKSbGYwin" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T17:23:16.778Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="hLeX4zCHTZVYJ71OGnCV" version="13.10.4" type="github">
   <diagram id="zJIdphBERN80DyX4u2p5" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -542,7 +542,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s7JqINAGT03I-tLtVqPM-3" value="APPROVED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="2980" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="2980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s7JqINAGT03I-tLtVqPM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s7JqINAGT03I-tLtVqPM-5" target="s7JqINAGT03I-tLtVqPM-7">
           <mxGeometry relative="1" as="geometry" />
@@ -582,17 +582,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s7JqINAGT03I-tLtVqPM-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-3-4/256/m-41-128.png" vertex="1" parent="1">
-          <mxGeometry x="440" y="2976.8" width="50" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="s7JqINAGT03I-tLtVqPM-22" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.company_owner;" vertex="1" parent="1">
           <mxGeometry x="180" y="2980" width="44.4" height="48.8" as="geometry" />
         </mxCell>
         <mxCell id="s7JqINAGT03I-tLtVqPM-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Owner&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="173" y="3044" width="49" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="s7JqINAGT03I-tLtVqPM-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Reviewer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="435" y="3044" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s7JqINAGT03I-tLtVqPM-29" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Lifecycle States&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="271" y="2931" width="199" height="20" as="geometry" />
