@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T13:27:24.840Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ubKf2aAzGT95cBhsZExx" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T13:33:20.210Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="cgsePmqVNA0v6r0k-8ju" version="13.10.6" type="github">
   <diagram id="kA-8LZLyfXsGiPmihokU" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,6 +165,12 @@
             <mxPoint x="-20" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NzH_-vMK7isZkNgS3nyy-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.339;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="NzH_-vMK7isZkNgS3nyy-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="1230" as="sourcePoint" />
+            <mxPoint x="574" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NzH_-vMK7isZkNgS3nyy-4" value="" style="rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;shadow=1;html=1;arcSize=4" vertex="1" parent="1">
           <mxGeometry x="380" y="1206" width="110" height="144" as="geometry" />
         </mxCell>
@@ -187,6 +193,42 @@
           <mxGeometry width="110" height="33" relative="1" as="geometry">
             <mxPoint y="105" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NzH_-vMK7isZkNgS3nyy-10" value="" style="strokeWidth=1;shadow=0;dashed=0;align=left;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1169" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NzH_-vMK7isZkNgS3nyy-11" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="NzH_-vMK7isZkNgS3nyy-10">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzH_-vMK7isZkNgS3nyy-12" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" vertex="1" parent="NzH_-vMK7isZkNgS3nyy-10">
+          <mxGeometry width="180" height="10" relative="1" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzH_-vMK7isZkNgS3nyy-13" value="Host" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="NzH_-vMK7isZkNgS3nyy-10">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzH_-vMK7isZkNgS3nyy-14" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="NzH_-vMK7isZkNgS3nyy-10">
+          <mxGeometry width="150" height="25" relative="1" as="geometry">
+            <mxPoint x="10" y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzH_-vMK7isZkNgS3nyy-15" value="Other Details" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="NzH_-vMK7isZkNgS3nyy-10">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="95" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzH_-vMK7isZkNgS3nyy-16" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="NzH_-vMK7isZkNgS3nyy-10">
+          <mxGeometry width="150" height="25" relative="1" as="geometry">
+            <mxPoint x="10" y="115" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NzH_-vMK7isZkNgS3nyy-22" value="Server Details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NzH_-vMK7isZkNgS3nyy-10">
+          <mxGeometry x="10" y="8" width="90" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
