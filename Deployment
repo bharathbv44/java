@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T13:37:40.806Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Y05o7Lt0IJk1je2SU6zU" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T13:38:40.487Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="QJISsOvbWDVJaP5w9yfL" version="13.10.6" type="github">
   <diagram id="kA-8LZLyfXsGiPmihokU" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,6 +229,12 @@
         </mxCell>
         <mxCell id="NzH_-vMK7isZkNgS3nyy-22" value="Server Details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NzH_-vMK7isZkNgS3nyy-10">
           <mxGeometry x="10" y="8" width="90" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="NzH_-vMK7isZkNgS3nyy-29" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="790" as="sourcePoint" />
+            <mxPoint x="1050" y="790" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
