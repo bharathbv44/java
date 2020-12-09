@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T04:12:14.868Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="i583gzJUe1YjPbPI7e0E" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T04:24:09.652Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="bErMrWCA5fTyWn7i0MFz" version="13.11.0" type="github">
   <diagram id="HTiRH9OWdBer0m903Ls4" name="Page-1">
     <mxGraphModel dx="2703" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="1IZzQIwN2ord_V1aoMNI-29" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="30" y="600" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1IZzQIwN2ord_V1aoMNI-30" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="1IZzQIwN2ord_V1aoMNI-30" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fontSize=22;strokeColor=#617D78;" vertex="1" parent="1">
           <mxGeometry x="30" y="740" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1IZzQIwN2ord_V1aoMNI-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/24x24-free-pixel-icons/24/User_group.png;fontSize=22;" vertex="1" parent="1">
@@ -185,6 +185,9 @@
               <mxPoint x="121.3" y="465" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1IZzQIwN2ord_V1aoMNI-62" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Approve&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="150" y="670" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
