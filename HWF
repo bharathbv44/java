@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T03:51:46.322Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="I2o-MQ75Su6eARTrhaI-" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T03:53:30.758Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="E8xzc-J1A8Mftzx9HRAb" version="13.11.0" type="github">
   <diagram id="HTiRH9OWdBer0m903Ls4" name="Page-1">
     <mxGraphModel dx="2182" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         </mxCell>
         <mxCell id="1IZzQIwN2ord_V1aoMNI-22" value="" style="endArrow=none;dashed=1;html=1;fontSize=22;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="520" as="sourcePoint" />
+            <mxPoint x="-110" y="520" as="sourcePoint" />
             <mxPoint x="1100" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1IZzQIwN2ord_V1aoMNI-33" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rule;fillColor=#5294CF;gradientColor=none;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="110.25" y="800" width="49.5" height="99" as="geometry" />
+          <mxGeometry x="110.25" y="800" width="49.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1IZzQIwN2ord_V1aoMNI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="1IZzQIwN2ord_V1aoMNI-33" target="1IZzQIwN2ord_V1aoMNI-36">
           <mxGeometry relative="1" as="geometry">
@@ -157,6 +157,17 @@
         </mxCell>
         <mxCell id="1IZzQIwN2ord_V1aoMNI-54" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Single User&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="120" y="970" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1IZzQIwN2ord_V1aoMNI-55" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="525" width="20" height="545" as="geometry" />
+        </mxCell>
+        <mxCell id="1IZzQIwN2ord_V1aoMNI-56" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="775.5" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1IZzQIwN2ord_V1aoMNI-57" value="Human Task" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.task_queues;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="1IZzQIwN2ord_V1aoMNI-56">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
