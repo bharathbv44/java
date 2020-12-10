@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T16:19:05.656Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="HPLhTWSLjGY8hF2OjOjH" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T16:26:57.368Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Yql6GGAiqiI0xuwDB56t" version="13.11.0" type="github">
   <diagram id="HTiRH9OWdBer0m903Ls4" name="Page-1">
     <mxGraphModel dx="2182" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
         <mxCell id="aYpvtZCtTMm4GZyMreul-33" value="" style="shape=umlDestroy;strokeWidth=3;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="1595" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aYpvtZCtTMm4GZyMreul-34" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;i&gt;Approvals cannot be rearranged dynamically&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="aYpvtZCtTMm4GZyMreul-34" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-style: normal&quot;&gt;Approvals cannot be rearranged dynamically&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="-60" y="1500" width="513" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aYpvtZCtTMm4GZyMreul-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYpvtZCtTMm4GZyMreul-37" target="aYpvtZCtTMm4GZyMreul-39">
@@ -427,6 +427,39 @@
         </mxCell>
         <mxCell id="aYpvtZCtTMm4GZyMreul-83" value="&lt;b&gt;Skip Approval&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=0;" vertex="1" parent="1">
           <mxGeometry x="415" y="2060" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYpvtZCtTMm4GZyMreul-85" target="aYpvtZCtTMm4GZyMreul-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-85" value="Approval 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="3050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYpvtZCtTMm4GZyMreul-87" target="aYpvtZCtTMm4GZyMreul-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-87" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Approval Group&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="155" y="3020" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYpvtZCtTMm4GZyMreul-89" target="aYpvtZCtTMm4GZyMreul-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-89" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Approval 3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="3050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-90" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Approval 4&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="3050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-91" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-shop-7/128/team-people-group-128.png;rounded=1;comic=0;strokeWidth=3;gradientColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="163" y="3020" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-92" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/us-election-2020/60/006-vote-choice-2-128.png;rounded=1;comic=0;strokeWidth=3;gradientColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="248" y="2990" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/stock_format-percent.png;rounded=1;comic=0;strokeWidth=3;gradientColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="298" y="2990" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-95" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;i&gt;Approvals based on voting not supported&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2950" width="540" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
