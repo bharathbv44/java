@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T15:47:14.650Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="JiWOaO454bi4OXkX9RB1" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T15:54:23.695Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Mi_xPxZE-yk7ga4G8b6H" version="13.11.0" type="github">
   <diagram id="HTiRH9OWdBer0m903Ls4" name="Page-1">
     <mxGraphModel dx="2182" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,6 +309,64 @@
         </mxCell>
         <mxCell id="aYpvtZCtTMm4GZyMreul-47" value="" style="shape=umlDestroy;strokeWidth=3;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="445" y="1995" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYpvtZCtTMm4GZyMreul-50" target="aYpvtZCtTMm4GZyMreul-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="2350" />
+              <mxPoint x="150" y="2280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYpvtZCtTMm4GZyMreul-50" target="aYpvtZCtTMm4GZyMreul-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="2350" />
+              <mxPoint x="150" y="2390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-50" value="Approval 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-37" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-52" value="&lt;span&gt;Approval 2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="2250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYpvtZCtTMm4GZyMreul-54" target="aYpvtZCtTMm4GZyMreul-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="2390" />
+              <mxPoint x="380" y="2350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-54" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Approval 3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="2360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aYpvtZCtTMm4GZyMreul-56" target="aYpvtZCtTMm4GZyMreul-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-56" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Approval 4&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-57" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Approval 5&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-58" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;i&gt;Parallel Approvals cannot be done&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="2150" width="513" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-59" value="" style="shape=umlDestroy;strokeWidth=3;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="399" y="2330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aYpvtZCtTMm4GZyMreul-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aYpvtZCtTMm4GZyMreul-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="333" y="2280" as="sourcePoint" />
+            <mxPoint x="450" y="2340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="2280" />
+              <mxPoint x="380" y="2340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
