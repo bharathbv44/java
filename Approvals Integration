@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-01T12:22:42.627Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="c4FbLapHdixd_p3dhsyK" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-01T12:46:20.526Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="euB3v2moNuiMaFA4yCz4" version="14.0.0" type="github">
   <diagram id="vHDXNTG-qvqge5O4h0nE" name="Page-1">
-    <mxGraphModel dx="2703" dy="2084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3106" dy="2329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,7 +248,7 @@
         <mxCell id="Qd2R5_tgLo-FH15SYWIL-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="Qd2R5_tgLo-FH15SYWIL-191" target="Qd2R5_tgLo-FH15SYWIL-221">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qd2R5_tgLo-FH15SYWIL-246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fontColor=#000000;" edge="1" parent="1" source="Qd2R5_tgLo-FH15SYWIL-191" target="Qd2R5_tgLo-FH15SYWIL-245">
+        <mxCell id="Qd2R5_tgLo-FH15SYWIL-246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;fontColor=#000000;" edge="1" parent="1" source="Qd2R5_tgLo-FH15SYWIL-245" target="Qd2R5_tgLo-FH15SYWIL-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qd2R5_tgLo-FH15SYWIL-191" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Approvals Reserved &lt;br&gt;Change Unit&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -476,6 +476,9 @@
         </mxCell>
         <mxCell id="Qd2R5_tgLo-FH15SYWIL-245" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Enter Expense Details&lt;/span&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Change Unit&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qd2R5_tgLo-FH15SYWIL-247" value="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;&lt;span&gt;Txn Details&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Token&lt;/li&gt;&lt;li&gt;Other Approval Details&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;labelBackgroundColor=none;sketch=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1768.75" width="200" height="76.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
