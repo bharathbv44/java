@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T07:48:04.877Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="nQ2nB9TFIxfsWlxjWfc7" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T07:52:15.531Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="IE7CoJQBMFM3Mblzdhmn" version="14.5.7" type="github">
   <diagram id="tgB8xdzLa9f3R03ZGDYt" name="Page-1">
     <mxGraphModel dx="1594" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -323,10 +323,10 @@
         <mxCell id="GD3L1-sMoZ1i0A84aiYy-179" value="Template CU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="390" y="2690" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GD3L1-sMoZ1i0A84aiYy-180" value="Pending for approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="2975" width="120" height="20" as="geometry" />
+        <mxCell id="GD3L1-sMoZ1i0A84aiYy-180" value="Status - Pending for approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2975" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GD3L1-sMoZ1i0A84aiYy-181" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GD3L1-sMoZ1i0A84aiYy-181" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="220" y="2960" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GD3L1-sMoZ1i0A84aiYy-182" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
