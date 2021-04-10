@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T07:52:15.531Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="IE7CoJQBMFM3Mblzdhmn" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-10T07:53:54.125Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="JvHauCkUD_IVkRjV52Pf" version="14.5.7" type="github">
   <diagram id="tgB8xdzLa9f3R03ZGDYt" name="Page-1">
     <mxGraphModel dx="1594" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,28 +324,25 @@
           <mxGeometry x="390" y="2690" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GD3L1-sMoZ1i0A84aiYy-180" value="Status - Pending for approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="430" y="2975" width="150" height="20" as="geometry" />
+          <mxGeometry x="390" y="2975" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GD3L1-sMoZ1i0A84aiYy-181" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2960" width="170" height="50" as="geometry" />
+          <mxGeometry x="180" y="3025" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GD3L1-sMoZ1i0A84aiYy-182" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="3030" width="170" height="50" as="geometry" />
+          <mxGeometry x="400" y="3024" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GD3L1-sMoZ1i0A84aiYy-183" value="Withdraw approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="3045" width="120" height="20" as="geometry" />
+          <mxGeometry x="430" y="3039" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GD3L1-sMoZ1i0A84aiYy-184" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2930" width="20" height="20" as="geometry" />
+        <mxCell id="GD3L1-sMoZ1i0A84aiYy-184" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="255" y="2995" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GD3L1-sMoZ1i0A84aiYy-185" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
-          <mxGeometry x="444" y="2930" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="GD3L1-sMoZ1i0A84aiYy-186" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
-          <mxGeometry x="370" y="3055" width="20" height="20" as="geometry" />
+        <mxCell id="GD3L1-sMoZ1i0A84aiYy-186" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="377" y="3045" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GD3L1-sMoZ1i0A84aiYy-187" value="Submit for approval" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="2975" width="110" height="20" as="geometry" />
+          <mxGeometry x="210" y="3040" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GD3L1-sMoZ1i0A84aiYy-190" value="IRDR" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="560" y="3240" width="810" height="190" as="geometry">
@@ -626,8 +623,7 @@
             <mxPoint x="270" y="3360" as="sourcePoint" />
             <mxPoint x="550" y="3360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="3010" />
-              <mxPoint x="290" y="3360" />
+              <mxPoint x="257" y="3360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -645,8 +641,8 @@
         <mxCell id="GD3L1-sMoZ1i0A84aiYy-267" value="&lt;b&gt;&lt;font color=&quot;#326300&quot;&gt;SUBMIT&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="3025" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GD3L1-sMoZ1i0A84aiYy-270" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
-          <mxGeometry x="807" y="3040" width="20" height="20" as="geometry" />
+        <mxCell id="GD3L1-sMoZ1i0A84aiYy-271" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="794" y="3038" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
