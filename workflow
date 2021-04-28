@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T09:28:42.685Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="cBaUJbVC50UOAMRpaGK3" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T09:44:26.040Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="Bvz5HUgIUgFCjBcQwLRy" version="14.6.6" type="github">
   <diagram id="tgB8xdzLa9f3R03ZGDYt" name="Page-1">
-    <mxGraphModel dx="2763" dy="-4734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3074" dy="-4734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -466,8 +466,8 @@
         <mxCell id="U8hO44kMJ16v-5raty1h-58" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACkAAAAOCAIAAAA9q6IvAAACIElEQVQ4EcWUz0sUYRjHv/9Ht3bBKTbBCDYK6VDdukheikDokCwd9hAsHtoOSQStO+hqaMpmYm01Za1SqxubE9UopAdxJdQtUMeldZAUxZ/j8sT77jKzrx2my9Awh+d55nmez/PM+7wP6P89+Bu9tavdz95DJohMCNMv+lZ3LB+TtGvpRqSDDQXLxoTF+TA+BDCa+i6YHRSBbZIxoF1G1APZa7/RGoykJnieA3qJyFHIPkwLeSc+nmb+sbYRweyg2GyTDCV1rozsvoTRENTriB/nFgmJzDKRW+yNXwHIHsgSlHelLomoSHq5oEgtjF1X2CYZnYrEWuy6+1r8Vfukets9iNbg27wr7G0a93fxYx4ST5LXoa/N5YpMcon9iTUnS1AXxbYFzRX2HuWa4lXsn/cOLAs42qPcbeUCko2YXdqmQbTyEifXLa8i7aSTPhbb0ztuWf9BsOd84etFFh+pxc+VysCCHuC3zoeZ9YoSn1iYIg2jg5/Xqy+VgY6yzTZJq47zcWvxQ+1rLmj9K8O3tKvl6x5rK82gnq1nJcoSks0NebUz342n1czy4DxWySTj/VQY6eeDB45ostnMd+stHh/jqSt2i+zFoxs3f5dz7ZP+8A3fJIf2z1h2g4g27/BaHeamlEtk8wv9LBtC4izaJcROoP8KPqcyYg8mGepMGIkz3OcklCB+LDEwkUmaP3EKsbojeXsTi9G2dphtf3Ff+gMWn3Swt01TBgAAAABJRU5ErkJggg==;" vertex="1" parent="1">
           <mxGeometry x="1345" y="8421.5" width="41" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="U8hO44kMJ16v-5raty1h-59" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Async Communication&amp;nbsp;&lt;br&gt;Approval Service&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="485" y="6600" width="225" height="40" as="geometry" />
+        <mxCell id="U8hO44kMJ16v-5raty1h-59" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Async Communication between TF and&amp;nbsp;&amp;nbsp;&lt;br&gt;Approval Service&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="6590" width="315" height="50" as="geometry" />
         </mxCell>
         <mxCell id="U8hO44kMJ16v-5raty1h-60" value="&lt;font style=&quot;font-size: 19px&quot;&gt;&lt;b&gt;Actions&lt;/b&gt;&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;fontSize=11" vertex="1" parent="1">
           <mxGeometry x="1264" y="8575.5" width="172" height="45" as="geometry" />
@@ -559,6 +559,12 @@
         </mxCell>
         <mxCell id="U8hO44kMJ16v-5raty1h-97" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Engine used to &lt;br&gt;&lt;/font&gt;&lt;ol style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Evaluate assignment information&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Trigger events for notification&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1298.5" y="9110" width="313" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="U8hO44kMJ16v-5raty1h-104" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=12;strokeColor=#666666;strokeWidth=3;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="403" y="6566" width="20" height="664" as="geometry" />
+        </mxCell>
+        <mxCell id="U8hO44kMJ16v-5raty1h-105" value="&lt;font style=&quot;font-size: 20px&quot;&gt;NSL Approval Engine&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fillColor=#dae8fc;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="259" y="6870" width="245" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
