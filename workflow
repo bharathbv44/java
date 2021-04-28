@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T09:24:31.393Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="iuIJEI07L4qEp4OF1Jnm" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T09:28:42.685Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="cBaUJbVC50UOAMRpaGK3" version="14.6.6" type="github">
   <diagram id="tgB8xdzLa9f3R03ZGDYt" name="Page-1">
     <mxGraphModel dx="2763" dy="-4734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -524,29 +524,20 @@
         <mxCell id="U8hO44kMJ16v-5raty1h-82" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="3101" y="8424" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U8hO44kMJ16v-5raty1h-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=2;fillColor=#ffffff;strokeColor=#5A6069;" vertex="1" parent="1">
+        <mxCell id="U8hO44kMJ16v-5raty1h-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=2;fillColor=#ffffff;strokeColor=#5A6069;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1276" y="8960" width="1404" height="310" as="geometry" />
         </mxCell>
         <mxCell id="U8hO44kMJ16v-5raty1h-89" value="&lt;font style=&quot;font-size: 20px&quot;&gt;NSL Approval Engine&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="1277" y="8928" width="245" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U8hO44kMJ16v-5raty1h-92" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Camunda Engine&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#666666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="9210" width="275" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="U8hO44kMJ16v-5raty1h-93" value="&lt;font style=&quot;font-size: 20px&quot;&gt;NSL Notifications&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#666666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="U8hO44kMJ16v-5raty1h-93" value="&lt;font style=&quot;font-size: 18px&quot;&gt;NSL Notifications&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#666666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1670" y="9130" width="275" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="U8hO44kMJ16v-5raty1h-94" value="&lt;font style=&quot;font-size: 20px&quot;&gt;NSL Data Pipeline&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#666666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="U8hO44kMJ16v-5raty1h-94" value="&lt;font style=&quot;font-size: 18px&quot;&gt;NSL Data Pipeline&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#666666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1670" y="9031" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U8hO44kMJ16v-5raty1h-95" value="&lt;font style=&quot;font-size: 20px&quot;&gt;NSL ELK Logging&lt;br&gt;Dashboard&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#666666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="U8hO44kMJ16v-5raty1h-95" value="&lt;font style=&quot;font-size: 18px&quot;&gt;NSL ELK Logging&lt;br&gt;Dashboard&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#666666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1670" y="9221" width="275" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="U8hO44kMJ16v-5raty1h-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#666666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="9100" width="310" height="161" as="geometry" />
-        </mxCell>
-        <mxCell id="U8hO44kMJ16v-5raty1h-97" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Engine used to &lt;br&gt;&lt;/font&gt;&lt;ol style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Evaluate assignment information&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Trigger events for notification&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="9100" width="313" height="130" as="geometry" />
         </mxCell>
         <mxCell id="U8hO44kMJ16v-5raty1h-98" value="&lt;font style=&quot;font-size: 17px&quot;&gt;To interact with other nsl services&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1960" y="9016" width="230" height="70" as="geometry" />
@@ -556,6 +547,18 @@
         </mxCell>
         <mxCell id="U8hO44kMJ16v-5raty1h-100" value="&lt;font style=&quot;font-size: 17px&quot;&gt;For logging the info&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1970" y="9200" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U8hO44kMJ16v-5raty1h-102" value="&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;Call from TF to Approval Engine&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="8840" width="240" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="U8hO44kMJ16v-5raty1h-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#666666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="9090" width="310" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="U8hO44kMJ16v-5raty1h-92" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Camunda Engine&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#666666;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1298.5" y="9205" width="275" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U8hO44kMJ16v-5raty1h-97" value="&lt;font style=&quot;font-size: 17px&quot;&gt;Engine used to &lt;br&gt;&lt;/font&gt;&lt;ol style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;Evaluate assignment information&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Trigger events for notification&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1298.5" y="9110" width="313" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
