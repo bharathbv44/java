@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T08:58:17.688Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="U1ayUR6JkQhdYHCa1ehI" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T09:04:07.532Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="NsyS1APNHZaNCbUL3mLS" version="14.6.13" type="github">
   <diagram id="lGBOM-aM7G6_iUPpv9Su" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,28 +147,28 @@
           <mxGeometry x="2220" y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-68" value="CDUI" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="1090" y="840" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-69" value="DSD" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="1250" y="840" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-70" value="TXN - CORE" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="1400" y="840" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-71" value="NSLDS - Solution Data" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="1560" y="840" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-72" value="Solution Store Service" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="690" width="130" height="30" as="geometry" />
+          <mxGeometry x="1720" y="840" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-73" value="&lt;p&gt;MongoDB Repo Impl&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1900" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="1900" y="840" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-74" value="&lt;p&gt;Redis Repo Impl&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2058" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="2058" y="840" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-75" value="&lt;p&gt;Kafka Repo Impl&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="690" width="120" height="30" as="geometry" />
+          <mxGeometry x="2230" y="840" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-79" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhcMtgBvw5Yq8l-BeSyp-68" target="YhcMtgBvw5Yq8l-BeSyp-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -176,43 +176,43 @@
             <mxPoint x="1170" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-80" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-80" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhcMtgBvw5Yq8l-BeSyp-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1309.5" y="690" as="sourcePoint" />
             <mxPoint x="1309.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-81" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-81" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhcMtgBvw5Yq8l-BeSyp-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1459.5" y="690" as="sourcePoint" />
             <mxPoint x="1459.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-82" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-82" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhcMtgBvw5Yq8l-BeSyp-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1619.5" y="690" as="sourcePoint" />
+            <mxPoint x="1620" y="830" as="sourcePoint" />
             <mxPoint x="1619.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-83" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-83" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhcMtgBvw5Yq8l-BeSyp-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1784.5" y="690" as="sourcePoint" />
             <mxPoint x="1784.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-84" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-84" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhcMtgBvw5Yq8l-BeSyp-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1959.5" y="690" as="sourcePoint" />
             <mxPoint x="1959.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-85" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-85" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhcMtgBvw5Yq8l-BeSyp-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2117.5" y="690" as="sourcePoint" />
             <mxPoint x="2117.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-86" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-86" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhcMtgBvw5Yq8l-BeSyp-75">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2290" y="690" as="sourcePoint" />
             <mxPoint x="2290" y="80" as="targetPoint" />
@@ -313,12 +313,66 @@
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-112" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="605" as="sourcePoint" />
-            <mxPoint x="1150" y="605" as="targetPoint" />
+            <mxPoint x="1310" y="780" as="sourcePoint" />
+            <mxPoint x="1150" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YhcMtgBvw5Yq8l-BeSyp-113" value="Return BET" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="585" width="70" height="20" as="geometry" />
+          <mxGeometry x="1200" y="760" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-115" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1310" y="534" as="sourcePoint" />
+            <mxPoint x="1460" y="534" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-116" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1460" y="560" as="sourcePoint" />
+            <mxPoint x="1610" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-117" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1620" y="584" as="sourcePoint" />
+            <mxPoint x="1770" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-118" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1790" y="605" as="sourcePoint" />
+            <mxPoint x="2120" y="605" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-119" value="Get from Redis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="575" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-120" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2110" y="650" as="sourcePoint" />
+            <mxPoint x="1780" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-121" value="return from Redis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="630" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-122" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1960" y="694" as="sourcePoint" />
+            <mxPoint x="1780" y="694" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-123" value="oncache miss return from db" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="669" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-124" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1790" y="736" as="sourcePoint" />
+            <mxPoint x="2120" y="736" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhcMtgBvw5Yq8l-BeSyp-125" value="Async Call to redis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="710" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
