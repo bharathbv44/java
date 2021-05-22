@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T11:28:46.182Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="VS8o-x9ac6szFsSSPeBz" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T11:29:32.595Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="F91THYMo0beQchaNZSnA" version="14.7.0" type="github">
   <diagram id="pC_4VXIbMaecKjLyn1Og" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,6 +99,19 @@
         </mxCell>
         <mxCell id="RL7jBhLI4f5cmUMzsP-X-4" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;b style=&quot;color: rgb(102, 102, 102); font-family: helvetica; font-size: 14px; font-style: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;Solution Name:&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="140" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;container=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="560" width="790" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-6" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Health&amp;nbsp;&lt;/b&gt;&lt;b&gt;Threshold&lt;/b&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=14;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="560" width="345" height="20" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-7" value="" style="shape=line;strokeWidth=2;html=1;resizeWidth=1;strokeColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="125" y="590" width="760" height="10" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
