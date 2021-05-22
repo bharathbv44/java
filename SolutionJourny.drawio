@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T11:29:32.595Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="F91THYMo0beQchaNZSnA" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T11:34:45.872Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="f3MbsxvVc7AUq9A9KScc" version="14.7.0" type="github">
   <diagram id="pC_4VXIbMaecKjLyn1Og" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,6 +112,18 @@
           <mxGeometry x="125" y="590" width="760" height="10" as="geometry">
             <mxPoint x="10" y="30" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-8" value="Health Threshold based on the total time taken for milestone completion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#785C85;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="125" y="610" width="490" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_alert;fontSize=14;fontColor=#785C85;" vertex="1" parent="1">
+          <mxGeometry x="154" y="660" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/32/519791-101_Warning-128.png;fontSize=14;fontColor=#785C85;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="155" y="710" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/caution-128.png;fontSize=14;fontColor=#785C85;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="155" y="770" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
