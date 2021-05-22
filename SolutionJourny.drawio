@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T11:34:45.872Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="f3MbsxvVc7AUq9A9KScc" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T11:40:43.443Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="lug7HM7LMOWqWLNfSGPA" version="14.7.0" type="github">
   <diagram id="pC_4VXIbMaecKjLyn1Og" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry x="130" y="140" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RL7jBhLI4f5cmUMzsP-X-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;container=0;" vertex="1" parent="1">
-          <mxGeometry x="115" y="560" width="790" height="320" as="geometry" />
+          <mxGeometry x="115" y="560" width="790" height="280" as="geometry" />
         </mxCell>
         <mxCell id="RL7jBhLI4f5cmUMzsP-X-6" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Health&amp;nbsp;&lt;/b&gt;&lt;b&gt;Threshold&lt;/b&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=14;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="560" width="345" height="20" as="geometry">
@@ -124,6 +124,15 @@
         </mxCell>
         <mxCell id="RL7jBhLI4f5cmUMzsP-X-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/caution-128.png;fontSize=14;fontColor=#785C85;strokeColor=#666666;align=left;" vertex="1" parent="1">
           <mxGeometry x="155" y="770" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-15" value="Alert - Define Time" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="665" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-18" value="Warning - Define Time" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="717.5" width="142.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-19" value="Escalation - Define Time" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="226.25" y="777.5" width="143.75" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
