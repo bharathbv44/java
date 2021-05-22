@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T12:00:47.726Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="4goToartHFevKH9k3R_m" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T12:52:30.288Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="NvGvs7VE2yRdJw5G4q3s" version="14.7.0" type="github">
   <diagram id="pC_4VXIbMaecKjLyn1Og" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,6 +232,42 @@
         </mxCell>
         <mxCell id="RL7jBhLI4f5cmUMzsP-X-52" value="&lt;p&gt;Loan Approval&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1051" y="1025" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-61" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;sketch=0;fontSize=14;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="960" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-62" value="" style="endArrow=classic;html=1;dashed=1;fontSize=14;fontColor=#000000;strokeWidth=1;" edge="1" parent="1" source="RL7jBhLI4f5cmUMzsP-X-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1000" as="sourcePoint" />
+            <mxPoint x="280" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-63" value="Send Email Notification on &lt;br&gt;Milestone complete" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="296.5" y="920" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-64" value="&lt;b&gt;Milestones&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1030" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-65" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.alert;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="724.3" y="927" width="33.2" height="33.2" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-66" value="Send Alert to business head/ user If milestone threshold is crossed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="736" y="907" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-67" value="" style="endArrow=classic;html=1;dashed=1;fontSize=14;fontColor=#000000;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="668.9002901669978" y="1001.592787073374" as="sourcePoint" />
+            <mxPoint x="720" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-68" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;sketch=0;fontSize=14;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="943.5" width="30" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RL7jBhLI4f5cmUMzsP-X-69" value="" style="endArrow=classic;html=1;dashed=1;fontSize=14;fontColor=#000000;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436.50029016699784" y="1001.792787073374" as="sourcePoint" />
+            <mxPoint x="487.6" y="960.2" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
