@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T12:54:27.675Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="vVsrV167t9D2ubHrI-gK" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T04:11:58.845Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="EJBH-TLW7QJ-oqV0Fddm" version="14.7.0" type="github">
   <diagram id="pC_4VXIbMaecKjLyn1Og" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,7 +243,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RL7jBhLI4f5cmUMzsP-X-63" value="Send Email Notification on &lt;br&gt;Milestone complete" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="296.5" y="920" width="240" height="20" as="geometry" />
+          <mxGeometry x="290" y="907" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RL7jBhLI4f5cmUMzsP-X-64" value="&lt;b&gt;&lt;font color=&quot;#a680b8&quot;&gt;Milestones&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="40" y="1030" width="40" height="20" as="geometry" />
