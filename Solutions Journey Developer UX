@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T05:45:52.449Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="EVqMg322__sA8m7bqK_u" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T05:46:59.044Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="XtYVWb9aIFIC8jPtjpKk" version="14.7.0" type="github">
   <diagram id="_YECjN-8MneTGqKoM4AQ" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="4WSwH_e2IrfuSIZfTCIj-5" value="Milestone Name" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="330" y="140" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4WSwH_e2IrfuSIZfTCIj-11" value="Update Date" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="580" y="140" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
