@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T05:36:33.504Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="HhIRU4l2p5FysN4JpKcB" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T05:45:05.218Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="WUxi_D2-6ncBWNwJ1LiU" version="14.7.0" type="github">
   <diagram id="pC_4VXIbMaecKjLyn1Og" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,17 +299,54 @@
         <mxCell id="Ritp3jkcrsfI6O_VDpmV-10" value="Create Milestone" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="924.28" y="1677.5" width="135.72" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ritp3jkcrsfI6O_VDpmV-11" value="Milestone Name" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1201" y="1753" width="239" height="69" as="geometry" />
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Milestone Name for&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: &amp;#34;inter&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Solution&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;box-sizing: border-box ; font-weight: bolder ; padding: 0px ; margin: 0px ; border: 0px ; color: rgb(33 , 37 , 41) ; font-family: &amp;#34;inter&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;GeneratingInvoice&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="1753" width="339" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Ritp3jkcrsfI6O_VDpmV-12" value="Description" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1201" y="1840" width="139" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ritp3jkcrsfI6O_VDpmV-14" value="Change Unit" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1201" y="1880" width="109" height="20" as="geometry" />
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-14" value="Change Unit - Select Change Unit on which milestone has to be created" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="1880" width="429" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ritp3jkcrsfI6O_VDpmV-15" value="&lt;b&gt;Milestone&lt;/b&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1344" y="1944" width="310" height="20" as="geometry" />
+          <mxGeometry x="1344" y="1944" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-16" value="&lt;b&gt;Add Health Thresholds&lt;/b&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1944" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-17" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;container=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2040" width="790" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-18" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Health&amp;nbsp;&lt;/b&gt;&lt;b&gt;Threshold&lt;/b&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=14;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2040" width="345" height="20" as="geometry">
+            <mxPoint x="10" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-19" value="" style="shape=line;strokeWidth=2;html=1;resizeWidth=1;strokeColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2070" width="760" height="10" as="geometry">
+            <mxPoint x="10" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-20" value="Health Threshold based on the total time taken for milestone completion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#785C85;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2090" width="490" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-21" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_alert;fontSize=14;fontColor=#785C85;" vertex="1" parent="1">
+          <mxGeometry x="879" y="2140" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/32/519791-101_Warning-128.png;fontSize=14;fontColor=#785C85;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/caution-128.png;fontSize=14;fontColor=#785C85;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-24" value="Alert - Define Time" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="955" y="2145" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-25" value="Warning - Define Time" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="952.5" y="2197.5" width="142.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-26" value="Escalation - Define Time" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="951.25" y="2257.5" width="143.75" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
