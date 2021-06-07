@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T05:32:47.375Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="1e1_HjZm8PmF_Hne0Zbm" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T05:36:33.504Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="HhIRU4l2p5FysN4JpKcB" version="14.7.0" type="github">
   <diagram id="pC_4VXIbMaecKjLyn1Og" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,6 +298,18 @@
         </mxCell>
         <mxCell id="Ritp3jkcrsfI6O_VDpmV-10" value="Create Milestone" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="924.28" y="1677.5" width="135.72" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-11" value="Milestone Name" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="1753" width="239" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-12" value="Description" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="1840" width="139" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-14" value="Change Unit" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1201" y="1880" width="109" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ritp3jkcrsfI6O_VDpmV-15" value="&lt;b&gt;Milestone&lt;/b&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="1944" width="310" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
