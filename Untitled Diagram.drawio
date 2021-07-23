@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T06:16:56.645Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="GUrPMLaSwuKQxaiYb4t3" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T06:18:37.743Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="B0XOUhPf58jZbGj3YDkH" version="14.9.2" type="github">
   <diagram id="Y27br5QVwWbI1Qi7QZbL" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,8 +109,8 @@
         <mxCell id="DDplgzoOYuk6mR9QdvAD-49" value="Role 7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
           <mxGeometry x="942" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DDplgzoOYuk6mR9QdvAD-50" value="Design Rights Only" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
-          <mxGeometry x="219" y="188" width="110" height="20" as="geometry" />
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-50" value="Design Rights" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="248" y="290" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
