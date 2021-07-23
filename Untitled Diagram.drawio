@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T06:05:10.668Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="uSGPA28S2CqIqFgTirs4" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T06:13:04.955Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="nkxCFJXrmvR1YCM2gmQX" version="14.9.2" type="github">
   <diagram id="Y27br5QVwWbI1Qi7QZbL" name="Page-1">
     <mxGraphModel dx="1355" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,103 @@
           <mxGeometry x="160" y="150" width="450" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DDplgzoOYuk6mR9QdvAD-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="245" y="311" width="765" height="259" as="geometry" />
+          <mxGeometry x="247" y="310" width="765" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-12" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="85" y="311" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="85" y="350" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-14" value="&lt;span&gt;Reports&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="85" y="390" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="85" y="425.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="85" y="460" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="85" y="500" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="85" y="540" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="248" y="313" width="112" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-22" value="IR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="260" y="321.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-23" value="DR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="306" y="321.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="313" width="112" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-29" value="IR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="372" y="321.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-30" value="DR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="418" y="321.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="472" y="312" width="112" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-32" value="IR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="484" y="320.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-33" value="DR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="530" y="320.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="312" width="112" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-35" value="IR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="602" y="320.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-36" value="DR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="648" y="320.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="313" width="112" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-38" value="IR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="722" y="321.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-39" value="DR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="768" y="321.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="827" y="313" width="112" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-41" value="IR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="839" y="321.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-42" value="DR" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox_2;fillColor=#0057D8;strokeColor=none;align=left;verticalAlign=middle;fontStyle=0;fontSize=12;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10" vertex="1" parent="1">
+          <mxGeometry x="885" y="321.5" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-43" value="Role 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-44" value="Role 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="379" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-45" value="Role 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="494" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-46" value="Role 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-47" value="Role 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="710" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-48" value="Role 6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="827" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDplgzoOYuk6mR9QdvAD-49" value="Role 7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="942" y="220" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
